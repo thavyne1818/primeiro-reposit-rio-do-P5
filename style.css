@@ -1,0 +1,29 @@
+ ;
+let circuloX;// horizontal
+let circuloY;// vertical
+
+function setup () {}
+  createCanvas(400,400);// width x height
+  background(color(100,0,0));
+  cor= [0,0,0];
+  circuloX = [0,0,0] ;
+  circuloY = [random(height),random(height),
+]
+
+// circuloX = 0,0,0
+// circuloY = 300,150,150
+
+ 
+
+
+function draw() [
+ 
+   fill(cor);
+
+   // console.log (circuloX.length)
+  
+    circle(circuloX[contador]), circuloYcontador,  50
+     //console.log (contador)                                      
+    circle(circuloX)                                
+                                         
+                                         
